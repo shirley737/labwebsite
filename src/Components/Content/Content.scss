@@ -1,0 +1,43 @@
+.content {
+  height: 300px;
+  width: 100%;
+  background-color: #f8f8ff;
+  text-align: center;
+
+  .content-title {
+    text-align: center;
+    padding-top: 50px;
+    font-family: "Optima";
+    font-size: 24px;
+    font-weight: 600;
+    color: #080808;
+  }
+
+  .content-description {
+    text-align: center;
+    padding: 70px 50px 0px 50px;
+    font-family: "Verdana";
+    font-size: 14px;
+    color: #484848;
+  }
+
+  .content-button {
+    margin: 40px auto;
+    font-family: "Verdana";
+    color: #e7e7e7;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: cadetblue;
+    border: 2px solid cadetblue;
+  }
+
+  .content-button:hover {
+    background-color: #e7e7e7;
+    color: cadetblue;
+  }
+}
