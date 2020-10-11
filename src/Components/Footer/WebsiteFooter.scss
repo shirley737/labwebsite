@@ -1,0 +1,41 @@
+.websitefooter {
+  left: 0px;
+  bottom: 0px;
+  height: 220px;
+  display: block;
+  width: 100%;
+  background: #006996;
+  color: #e7e7e7;
+
+  .left {
+    float: left;
+    width: 33%;
+    padding: 50px 100px 0px 100px;
+
+    .left-image {
+      width: 200px;
+    }
+
+    .left-content {
+      padding-top: 30px;
+      font-size: 13px;
+    }
+  }
+
+  .right {
+    float: right;
+    width: 33%;
+    color: #e7e7e7;
+    padding: 35px 0px;
+
+    .right-title {
+      padding: 10px 20px 20px 20px;
+      font-family: "Verdana";
+      font-weight: 600;
+    }
+
+    .right-content {
+      padding: 2px 20px;
+    }
+  }
+}

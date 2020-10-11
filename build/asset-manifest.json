@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/labwebsite/static/css/main.460aa0ad.chunk.css",
-    "main.js": "/labwebsite/static/js/main.7f13cd4b.chunk.js",
-    "main.js.map": "/labwebsite/static/js/main.7f13cd4b.chunk.js.map",
+    "main.css": "/labwebsite/static/css/main.0f9d72d5.chunk.css",
+    "main.js": "/labwebsite/static/js/main.9d06eabb.chunk.js",
+    "main.js.map": "/labwebsite/static/js/main.9d06eabb.chunk.js.map",
     "runtime-main.js": "/labwebsite/static/js/runtime-main.90196989.js",
     "runtime-main.js.map": "/labwebsite/static/js/runtime-main.90196989.js.map",
-    "static/js/2.513b27f1.chunk.js": "/labwebsite/static/js/2.513b27f1.chunk.js",
-    "static/js/2.513b27f1.chunk.js.map": "/labwebsite/static/js/2.513b27f1.chunk.js.map",
+    "static/js/2.8ec1e5de.chunk.js": "/labwebsite/static/js/2.8ec1e5de.chunk.js",
+    "static/js/2.8ec1e5de.chunk.js.map": "/labwebsite/static/js/2.8ec1e5de.chunk.js.map",
     "index.html": "/labwebsite/index.html",
-    "precache-manifest.2face0dbf9fb4a846a2f927bb0ebfdb1.js": "/labwebsite/precache-manifest.2face0dbf9fb4a846a2f927bb0ebfdb1.js",
+    "precache-manifest.e66c7e1079bdc39b8dd8010459f9c76b.js": "/labwebsite/precache-manifest.e66c7e1079bdc39b8dd8010459f9c76b.js",
     "service-worker.js": "/labwebsite/service-worker.js",
-    "static/css/main.460aa0ad.chunk.css.map": "/labwebsite/static/css/main.460aa0ad.chunk.css.map",
-    "static/js/2.513b27f1.chunk.js.LICENSE.txt": "/labwebsite/static/js/2.513b27f1.chunk.js.LICENSE.txt",
-    "static/media/Footer.scss": "/labwebsite/static/media/banner.dec46232.jpg",
-    "static/media/image1.jpeg": "/labwebsite/static/media/image1.25c6007f.jpeg"
+    "static/css/main.0f9d72d5.chunk.css.map": "/labwebsite/static/css/main.0f9d72d5.chunk.css.map",
+    "static/js/2.8ec1e5de.chunk.js.LICENSE.txt": "/labwebsite/static/js/2.8ec1e5de.chunk.js.LICENSE.txt",
+    "static/media/banner.jpg": "/labwebsite/static/media/banner.dec46232.jpg",
+    "static/media/image1.jpeg": "/labwebsite/static/media/image1.25c6007f.jpeg",
+    "static/media/logo.png": "/labwebsite/static/media/logo.f44390a0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.90196989.js",
-    "static/js/2.513b27f1.chunk.js",
-    "static/css/main.460aa0ad.chunk.css",
-    "static/js/main.7f13cd4b.chunk.js"
+    "static/js/2.8ec1e5de.chunk.js",
+    "static/css/main.0f9d72d5.chunk.css",
+    "static/js/main.9d06eabb.chunk.js"
   ]
 }

@@ -9,7 +9,7 @@ import Footer from "./Components/Footer/Footer";
 function App() {
   return (
     <div className="website">
-      <Header header="#header" about="#content" project="project" />
+      <Header />
       <Banner />
       <Content />
       <Project />

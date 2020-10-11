@@ -6,7 +6,7 @@ function Banner() {
   return (
     <div className="banner">
       <div className="banner-content">
-        <div className="banner-title">We are prepare for the future</div>
+        <div className="banner-title">We prepare for the future</div>
         <div className="banner-button">View Projects</div>
       </div>
     </div>
