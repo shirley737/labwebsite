@@ -7,17 +7,33 @@ function Header(props) {
       <div className="left-title">Karcher's Lab</div>
       <div className="right-nav">
         <ul>
-          <li>
-            <a href={props.footer}>Contact</a>
+          <li
+            onClick={() => {
+              window.scrollTo({ top: 1500, behavior: "smooth" });
+            }}
+          >
+            <a>Contact</a>
           </li>
-          <li>
-            <a href={props.project}>Projects</a>
+          <li
+            onClick={() => {
+              window.scrollTo({ top: 900, behavior: "smooth" });
+            }}
+          >
+            <a>Projects</a>
           </li>
-          <li>
-            <a href={props.about}>About</a>
+          <li
+            onClick={() => {
+              window.scrollTo({ top: 600, behavior: "smooth" });
+            }}
+          >
+            <a>About</a>
           </li>
-          <li>
-            <a href={props.header}>Home</a>
+          <li
+            onClick={() => {
+              window.scrollTo({ top: 0, behavior: "smooth" });
+            }}
+          >
+            <a>Home</a>
           </li>
         </ul>
       </div>

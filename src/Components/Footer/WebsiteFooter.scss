@@ -39,3 +39,31 @@
     }
   }
 }
+
+@media only screen and (max-width: 600px) {
+  div.websitefooter {
+    height: 400px;
+
+    .left {
+      margin: auto;
+      width: 100%;
+      padding: 50x;
+
+      .left-content {
+        display: none;
+      }
+    }
+
+    .right {
+      width: 100%;
+
+      .right-title {
+        padding: 10px 100px 20px 100px;
+      }
+
+      .right-content {
+        padding: 2px 100px;
+      }
+    }
+  }
+}

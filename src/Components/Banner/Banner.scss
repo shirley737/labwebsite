@@ -49,3 +49,14 @@
     color: black;
   }
 }
+
+@media only screen and (max-width: 480px) {
+  div.banner {
+    height: 500px;
+    width: 100%;
+
+    .banner-content {
+      top: 40%;
+    }
+  }
+}

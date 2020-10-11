@@ -1,12 +1,12 @@
 .content {
-  height: 300px;
+  height: 350px;
   width: 100%;
   background-color: #f8f8ff;
   text-align: center;
 
   .content-title {
     text-align: center;
-    padding-top: 50px;
+    padding-top: 80px;
     font-family: "Optima";
     font-size: 24px;
     font-weight: 600;
@@ -39,5 +39,11 @@
   .content-button:hover {
     background-color: #e7e7e7;
     color: cadetblue;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  div.content {
+    height: 400px;
   }
 }

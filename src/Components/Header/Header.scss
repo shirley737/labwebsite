@@ -35,12 +35,22 @@
     }
 
     li a:hover:not(.active) {
-      background-color: rgb(67, 93, 94);
+      background-color: #006996;
       color: white;
     }
 
     .active {
       background-color: #4caf50;
+    }
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  div.header {
+    width: 100%;
+
+    .right-nav {
+      display: none;
     }
   }
 }

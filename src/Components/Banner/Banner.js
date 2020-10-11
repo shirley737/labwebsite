@@ -7,7 +7,14 @@ function Banner() {
     <div className="banner">
       <div className="banner-content">
         <div className="banner-title">We prepare for the future</div>
-        <div className="banner-button">View Projects</div>
+        <div
+          className="banner-button"
+          onClick={() => {
+            window.scrollTo({ top: 900, behavior: "smooth" });
+          }}
+        >
+          View Projects
+        </div>
       </div>
     </div>
   );

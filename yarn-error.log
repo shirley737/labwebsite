@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/bin/node /Users/yguo2/.yarn/bin/yarn.js add node-sass
+  /usr/local/bin/node /Users/yguo2/.yarn/bin/yarn.js add react-scroll
 
 PATH: 
   /Users/yguo2/.yarn/bin:/Users/yguo2/.config/yarn/global/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
@@ -14,7 +14,7 @@ Platform:
   darwin x64
 
 Trace: 
-  Error: https://registry.npmjs.intuit.com/node-sass: Request "https://registry.npmjs.intuit.com/node-sass" returned a 403
+  Error: https://registry.npmjs.intuit.com/react-scroll: Request "https://registry.npmjs.intuit.com/react-scroll" returned a 403
       at Request.params.callback [as _callback] (/Users/yguo2/.yarn/lib/cli.js:66984:18)
       at Request.self.callback (/Users/yguo2/.yarn/lib/cli.js:140727:22)
       at Request.emit (events.js:311:20)

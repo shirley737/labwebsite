@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useRef } from "react";
 import "./App.scss";
 import Header from "./Components/Header/Header";
 import Banner from "./Components/Banner/Banner";
