@@ -70,12 +70,11 @@
     width: 100%;
 
     .singleproject {
-      text-align: center;
+      align-self: center;
       width: 100%;
       margin-top: 20px;
 
       .singleproject-image {
-        margin: auto;
         width: 250px;
         height: 150px;
       }
@@ -88,7 +87,7 @@
       .singleproject-button {
         margin-bottom: 20px;
         margin: 0px 0 0px 50%;
-        transform: translate(-55%, 0);
+        transform: translate(-50%, 0);
       }
     }
   }

@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/labwebsite/static/css/main.85a00f83.chunk.css",
+    "main.js": "/labwebsite/static/js/main.f1d7afb7.chunk.js",
+    "main.js.map": "/labwebsite/static/js/main.f1d7afb7.chunk.js.map",
+    "runtime-main.js": "/labwebsite/static/js/runtime-main.90196989.js",
+    "runtime-main.js.map": "/labwebsite/static/js/runtime-main.90196989.js.map",
+    "static/js/2.8ec1e5de.chunk.js": "/labwebsite/static/js/2.8ec1e5de.chunk.js",
+    "static/js/2.8ec1e5de.chunk.js.map": "/labwebsite/static/js/2.8ec1e5de.chunk.js.map",
+    "index.html": "/labwebsite/index.html",
+    "precache-manifest.9578bb082cc051edd881ae9d4709d8a3.js": "/labwebsite/precache-manifest.9578bb082cc051edd881ae9d4709d8a3.js",
+    "service-worker.js": "/labwebsite/service-worker.js",
+    "static/css/main.85a00f83.chunk.css.map": "/labwebsite/static/css/main.85a00f83.chunk.css.map",
+    "static/js/2.8ec1e5de.chunk.js.LICENSE.txt": "/labwebsite/static/js/2.8ec1e5de.chunk.js.LICENSE.txt",
+    "static/media/banner.jpg": "/labwebsite/static/media/banner.dec46232.jpg",
+    "static/media/image1.jpeg": "/labwebsite/static/media/image1.25c6007f.jpeg",
+    "static/media/logo.png": "/labwebsite/static/media/logo.f44390a0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90196989.js",
+    "static/js/2.8ec1e5de.chunk.js",
+    "static/css/main.85a00f83.chunk.css",
+    "static/js/main.f1d7afb7.chunk.js"
+  ]
+}
